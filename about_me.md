@@ -1,9 +1,9 @@
-1. Name : Sangyeon Lee (Sid)
-2. OSU e-mail : leesa3@oregonstate.edu
-3. Major : Computer Science
-4. Year of Study : The First Year
-5. The Answer to Whether I have signed up for Piazza : Yes
-6. The most unique experience thta I have had
+1. **Name** : Sangyeon Lee (Sid)
+2. **OSU e-mail** : leesa3@oregonstate.edu
+3. **Major** : Computer Science
+4. **Year of Study** : The First Year
+5. **The Answer to Whether I have signed up for Piazza** : Yes
+6. **The most unique experience thta I have had**
 : It is the two years on military duty.
   Even though it might be cliched for Koreans since evey man in Korea must serve mandatory military service ,
   however, not only as a person but also for myself, the period of time is the most significant turning point.
